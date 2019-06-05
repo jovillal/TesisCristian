@@ -1,20 +1,10 @@
-*Vertices 6852
-1 "57190347918" ellipse
-2 "55498651200" ellipse
-3 "57076698100" triangle
-4 "7102593264" box
-5 "6604080892" ellipse
-6 "56925909100" ellipse
-7 "6603847640" ellipse
-8 "6508224515" ellipse
-9 "36821276600" box
-*Edges
-1 4
-1 2
-1 3
-2 4
-2 6
-2 4
-3 6
-3 9
-4 5
+Line 1.
+Line 2.
+Line 3.
+Line 4.
+Line 5.
+Line 6.
+Line 7.
+Line 8.
+Line 9.
+Line 10.
